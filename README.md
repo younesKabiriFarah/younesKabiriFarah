@@ -12,7 +12,7 @@
 </div>
 
 <div align=center>
- <a href="www.linkedin.com/in/younes-kabiri-farah-276297244" target="_blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=LinkedIn&color=0A66C2&logo=LinkedIn&logoColor=FFFFFF&label=" alt="LinkedIn" /></a>
+  	<a href="https://www.linkedin.com/in/younes-kabiri-farah-276297244/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="mailto:youneskabiri17@gmail.com?subject=Hi%20Kartik%20,%20nice%20to%20meet%20you!" target="_blank"><img alt="Email" src="https://img.shields.io/static/v1?style=for-the-badge&message=Gmail&color=EA4335&logo=Gmail&logoColor=FFFFFF&label=" /></a>
 
 
@@ -124,7 +124,7 @@ Creation of frontend/backend organizational application to manage everything rel
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,aws,cpp,css,discord,docker,postgres,prisma,pug,dynamodb,express,figma,firebase,redis,github,html,java,js,linux,md,materialui,nginx,mongodb,mysql,nextjs,nodejs,postman,py,react,redux,tailwind,ts,vscode,kubernetes&perline=14" />
+    <img src="https://skillicons.dev/icons?i=git,aws,css,discord,docker,postgres,prisma,dynamodb,express,firebase,redis,github,html,java,js,linux,materialui,nginx,mongodb,mysql,nestjs,nodejs,postman,py,redux,tailwind,ts,vscode,kubernetes&perline=14" />
   </a>
 </p>
 
