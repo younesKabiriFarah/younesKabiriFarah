@@ -39,7 +39,7 @@
 <!--Intro start-->
 
 
-  - 👨‍🎓 I am a student of Master's Degree in Computer Security Engineering and AI at [ROVIRA I VIRGILI](https://www.urv.cat/en/)
+  - 👨‍🎓 I am a student of Master's Degree in Computer Security Engineering and Artificial Intelligence at [ROVIRA I VIRGILI](https://www.urv.cat/en/)
   
 - 🏫 Bachelor's degree in Computer Engineering at [ROVIRA I VIRGILI](https://www.urv.cat/en/)
   
