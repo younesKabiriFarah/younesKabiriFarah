@@ -85,7 +85,7 @@ Creation of frontend/backend organizational application to manage everything rel
 <td width="50%">
 <h3 align="center">Spring boot</h3>
 <div align="center">
-<a href="https://github.com/ArisGuimera/Android-Expert-Intermedio](https://github.com/younesKabiriFarah/spring_boot/tree/main" target="_blank"><img src="https://media.licdn.com/dms/image/D4D12AQFscCu_T0xB3A/article-cover_image-shrink_423_752/0/1688794846091?e=1724889600&v=beta&t=uxO-anVIuh_Wm38cS7wSVuBEswQ0nDWWd4AqVQLtvIw"></a>
+<a href="https://github.com/younesKabiriFarah/spring_boot" target="_blank"><img src="https://media.licdn.com/dms/image/D4D12AQFscCu_T0xB3A/article-cover_image-shrink_423_752/0/1688794846091?e=1724889600&v=beta&t=uxO-anVIuh_Wm38cS7wSVuBEswQ0nDWWd4AqVQLtvIw"></a>
 
 <p>Proyecto de ejemplo CRUD de Spring Boot Este repositorio sirve como introducción práctica a Spring Boot, un potente framework Java, donde construimos una aplicación CRUD (Create, Read, Update, Delete). Utilizamos la base de datos PostgreSQL para almacenar y obtener nuestros datos.</p>
 </div>
