@@ -14,7 +14,7 @@
 <div align=center>
   	<a href="https://www.linkedin.com/in/younes-kabiri-farah-276297244/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="mailto:youneskabiri17@gmail.com?subject=Hi%20Kartik%20,%20nice%20to%20meet%20you!" target="_blank"><img alt="Email" src="https://img.shields.io/static/v1?style=for-the-badge&message=Gmail&color=EA4335&logo=Gmail&logoColor=FFFFFF&label=" /></a>
-
+</div>
 
 <!--- snake -->
 <div align="center">
@@ -37,12 +37,19 @@
 
 
 <!--Intro start-->
-- 👨‍🎓 I am a student of Master's Degree in Computer Security Engineering and AI at [ROVIRA I VIRGILI](https://www.urv.cat/en/)
+
+
+  - 👨‍🎓 I am a student of Master's Degree in Computer Security Engineering and AI at [ROVIRA I VIRGILI](https://www.urv.cat/en/)
+  
 - 🏫 Bachelor's degree in Computer Engineering at [ROVIRA I VIRGILI](https://www.urv.cat/en/)
+  
 - 🏫 Higher Vocational Training in Multiplatform Application Development at [Vidal i Barraquer](https://www.vidalibarraquer.net/)
+  
 - :technologist: I love using Software as a solution for every `Problem`.
+  
 - :nerd_face: Always `learning new things`.
 - :thinking: I’m currently open for a new `job opportunity`, this is [MY CV](https://res.cloudinary.com/dz3erohks/image/upload/v1719669940/CV_Younes_Kabiri_2_jkzeoh.pdf).
+  
 <!--Intro end-->
 
 
