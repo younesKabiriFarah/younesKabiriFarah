@@ -56,12 +56,8 @@
 
 
 
-
-
-
-
-
 ## Project
+<!-- Nest Microservices-->
 <table>
 <tr>
 <td width="50%">
@@ -72,7 +68,7 @@
 </div>
                                                                                       
 </td>
-
+<!-- TFG-->
 <td width="50%">
                <br>
 <h3 align="center">Computer Engineering Final Project/h3>
@@ -86,6 +82,34 @@ Creation of frontend/backend organizational application to manage everything rel
 </table>                                                                                 
 </div>
 <br>
+
+<!-- K8S -->
+<table>
+<tr>
+<td width="50%">
+<h3 align="center">Kubernetes</h3>
+<div align="center">
+<a href="https://github.com/orgs/kubernetes-summary-book/repositories" target="_blank"><img src="https://res.cloudinary.com/dz3erohks/image/upload/v1720472582/Screenshot_2024-07-08_at_23.02.50_r1ydkm.png"></a>
+
+<p>In this organization we summarize everything we learned in the [Book: Kubernetes para profesionales: Desde cero al despliegue de aplicaciones seguras y resilientes](https://0xword.com/es/libros/213-kubernetes-para-profesionales-desde-cero-al-despliegue-de-aplicaciones-seguras-y-resilientes.html) about Kubernetes, from the basics to more advanced topics related to high performance and security.</p>
+</div>
+                                                                                      
+</td>       
+
+<!-- Kafka -->
+<td width="50%">
+<h3 align="center">Kafka</h3>
+<div align="center">
+<a href="https://github.com/orgs/Apache-kafka-projects/repositories" target="_blank"><img src="https://res.cloudinary.com/dz3erohks/image/upload/v1720472761/Screenshot_2024-07-06_at_20.37.21_ugmgiz.png"></a>
+
+<p>n this organization we deal with everything related to Kafka, from a summary of what it is and how it works, to a project of real and practical use.</p>
+</div>
+                                                                                      
+</td>  
+</table>                                                                                 
+</div>
+<br>
+
 
 <table>
 <tr>
