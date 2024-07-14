@@ -128,7 +128,7 @@ Creation of frontend/backend organizational application to manage everything rel
 <div align="center">
 <a href="https://github.com/younesKabiriFarah/spring_boot" target="_blank"><img src="https://media.licdn.com/dms/image/D4D12AQFscCu_T0xB3A/article-cover_image-shrink_423_752/0/1688794846091?e=1724889600&v=beta&t=uxO-anVIuh_Wm38cS7wSVuBEswQ0nDWWd4AqVQLtvIw"></a>
 
-<p>Proyecto de ejemplo CRUD de Spring Boot Este repositorio sirve como introducción práctica a Spring Boot, un potente framework Java, donde construimos una aplicación CRUD (Create, Read, Update, Delete). Utilizamos la base de datos PostgreSQL para almacenar y obtener nuestros datos.</p>
+<p>Spring Boot CRUD sample project This repository serves as a practical introduction to Spring Boot, a powerful Java framework, where we build a CRUD (Create, Read, Update, Delete) application. We use the PostgreSQL database to store and retrieve our data.</p>
 </div>
                                                                                       
 </td>      
