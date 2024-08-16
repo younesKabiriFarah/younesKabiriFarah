@@ -48,7 +48,7 @@
 - :technologist: I love using Software as a solution for every `Problem`.
   
 - :nerd_face: Always `learning new things`.
-- :thinking: I’m currently open for a new `job opportunity`, this is [MY CV](https://res.cloudinary.com/dz3erohks/image/upload/v1719669940/CV_Younes_Kabiri_2_jkzeoh.pdf).
+- :thinking: I’m currently open for a new `job opportunity`, this is [MY CV](https://res.cloudinary.com/dz3erohks/image/upload/v1723798264/CV-Younes-Kabiri_xhttgt.pdf).
   
 <!--Intro end-->
 
